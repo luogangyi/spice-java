@@ -1,0 +1,1 @@
+The aim of the project is to implement a Spice (see spice-space.org) client in Java, which could be used as a standalone app, java applet or basis for mobile (read Android) development
